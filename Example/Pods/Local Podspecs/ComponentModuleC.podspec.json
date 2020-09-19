@@ -1,0 +1,27 @@
+{
+  "name": "ComponentModuleC",
+  "version": "0.0.1",
+  "summary": "ComponentModuleC业务组件",
+  "description": "ComponentModuleC业务组件",
+  "homepage": "https://github.com/jiaojiaozhe/ComponentModuleC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiaojiaozhe": "lanbiao@zhihuihutong.com"
+  },
+  "source": {
+    "git": "https://github.com/jiaojiaozhe/ComponentModuleC.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ComponentModuleC/Classes/**/*",
+  "dependencies": {
+    "LogicBaseComponentModule": [
+
+    ]
+  }
+}
