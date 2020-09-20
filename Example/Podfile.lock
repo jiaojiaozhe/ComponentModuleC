@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.2.1)
   - AFNetworking/UIKit (3.2.1):
     - AFNetworking/NSURLSession
-  - ComponentModuleC (0.0.1):
+  - ComponentModuleC (0.0.2):
     - LogicBaseComponentModule
   - LogicBaseComponentModule (0.0.4):
     - lottie-ios (~> 2.5.3)
@@ -72,7 +72,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  ComponentModuleC: 2b6d32d5970e26eddb29c900e11f778495bdf900
+  ComponentModuleC: aa41d74d7f88960182cfeb0906a6b4d2c194a381
   LogicBaseComponentModule: a361fb2f0927a97fcdc593ab76b818aaaaf78172
   lottie-ios: a50d5c0160425cd4b01b852bb9578963e6d92d31
   Mantle: 35238ae6f2e2b2d474fa7b67fee82a59fea71915
