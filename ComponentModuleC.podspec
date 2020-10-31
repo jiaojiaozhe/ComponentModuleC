@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ComponentModuleC'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'ComponentModuleC业务组件'
 
 # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ ComponentModuleC业务组件
   s.source           = { :git => 'https://github.com/jiaojiaozhe/ComponentModuleC.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'ComponentModuleC/Classes/**/*'
   
@@ -37,6 +37,7 @@ ComponentModuleC业务组件
   # }
   
   s.dependency 'LogicBaseComponentModule'
+  s.dependency 'XAbstractionLibrary-UICommon'
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
